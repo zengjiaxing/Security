@@ -10,4 +10,7 @@ public class UserService {
     public void test2(){
         System.out.println("wind");
     }
+    public void test3(){
+        System.out.println("glass");
+    }
 }
